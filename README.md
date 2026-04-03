@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 💻 Tech Stack:
+💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -14,10 +15,16 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F54033?style=for-the-badge)
+![LLaMA](https://img.shields.io/badge/LLaMA-6B2D8B?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AneeshKumar179&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AneeshKumar179&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshKumar179&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
